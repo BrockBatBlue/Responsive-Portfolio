@@ -6,11 +6,13 @@
     color: rgb(0, 59, 117) !important;
     font-family: 'Goblin One', cursive;
 }
- /*This is not working for some reason  */
 .nav-link {
     color: rgb(0, 59, 117) !important;
     font-family: 'Jacques Francois', serif; 
 } 
+.footer {
+    background-color: rgb(128, 223, 128);
+}
 .mt-0 {
     font-family: 'Goblin One', cursive;
 }
