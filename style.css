@@ -1,9 +1,9 @@
 .navbar {
-    background-color: forestgreen !important;
+    background-color: rgb(86, 149, 86) !important;
 }
 
 .navbar-brand {
-    color: dodgerblue !important;
+    color: rgb(0, 59, 117) !important;
 }   
 .carousel {
     margin-top: 10px;
