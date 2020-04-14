@@ -23,6 +23,7 @@ p {
 /* Portfolio Page Styles */
 
 .Port-Title {
+    font-family: 'Goblin One', cursive;
     font-weight: bolder;
     font-size: x-large;
     text-align: center;
@@ -32,7 +33,11 @@ p {
 }
 /* Contact Page Styles */
 .Contact-Title {
+    font-family: 'Goblin One', cursive;
     font-weight: bolder;
     font-size: x-large;
     text-align: center;
+}
+.form-control {
+    
 }
