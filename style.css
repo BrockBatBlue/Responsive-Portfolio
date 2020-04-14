@@ -8,6 +8,7 @@
 }
  /*This is not working for some reason  */
 .nav-link {
+    color: rgb(0, 59, 117) !important;
     font-family: 'Aclonica', sans-serif !important; 
 } 
 .carousel {
