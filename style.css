@@ -9,7 +9,10 @@
 .nav-link {
     color: rgb(0, 59, 117) !important;
     font-family: 'Jacques Francois', serif; 
-} 
+}
+.nav-item.active {
+    font-weight: bold;
+}
 .footer {
     background-color: rgb(128, 223, 128);
 }
