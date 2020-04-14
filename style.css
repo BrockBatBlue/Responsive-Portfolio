@@ -1,0 +1,10 @@
+.navbar {
+    background-color: forestgreen !important;
+}
+
+.navbar-brand {
+    color: dodgerblue !important;
+}   
+.carousel {
+    margin-top: 10px;
+}
