@@ -26,7 +26,7 @@
 }
 .footer {
     display: flex;
-    background-color: rgb(128, 223, 128);
+    background-color: rgba(90, 146, 90, 0.363);
 }
 .mt-0 {
     font-family: 'Goblin One', cursive;
